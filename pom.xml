@@ -45,11 +45,4 @@
 		</plugins>
 	</build>
 
-	<repositories>
-		<repository>
-			<id>luluartmavenorg</id>
-			<url>https://artifactory.lululemoninternal.com/artifactory/global-maven</url>
-		</repository>
-	</repositories>
-
 </project>
