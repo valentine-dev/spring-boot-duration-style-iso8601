@@ -20,4 +20,5 @@ Demonstrate the Issue #32218 of Spring Boot for version 2.7.3 with JDK 11
     `Caused by: java.lang.IllegalArgumentException: 'pt20.344s' is not a valid duration `
 
 # Behavior in Java for the Same Use Case
-`Duration.parse("pt20.344s").toMillis()` will return `20344` in Java code.
+`Duration.parse("pt20.344s").toMillis()` will return `20344` in Java code:
+![Works in Java](java_works.png)
