@@ -1,6 +1,6 @@
-># Development Work Based on Defined Agreements
+># Development Work Based on Defined Agreements - by Valentine Wu
 >
->For software development, it is normally to first **define** the requirements which are **agreed** by the stakeholders based on which the implementation will start.
+>For software development, it is normally to first **define** the requirements which are **agreed** by the stakeholders based on which the implementation will start. The defined agreement is evolving from time to time and its implementation will be moving forward accordingly. 
 >
 >## Defined and Agreed Requirements
 >
