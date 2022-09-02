@@ -42,7 +42,7 @@
 
 
 # spring-boot-duration-style-iso8601
-Demonstrate the [Issue #32218 of Spring Boot for version 2.7.3](https://github.com/spring-projects/spring-boot/issues/32218) with JDK 11 I reported on September 1, 2022
+Demonstrate the [Issue #32218 of Spring Boot for version 2.7.3 with JDK 11](https://github.com/spring-projects/spring-boot/issues/32218) I reported on September 1, 2022
 
 # Steps to Demonstrate Spring Boot Issue #32218
 1. Git clone the source code;
